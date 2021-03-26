@@ -1,6 +1,5 @@
-package dataStructures;
+package lists;
 
-import java.awt.*;
 import javax.swing.*;
 
 public class BounceBallApp {

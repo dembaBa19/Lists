@@ -1,4 +1,4 @@
-package dataStructures;
+package lists;
 
 import javax.swing.*;
 import java.awt.event.*;

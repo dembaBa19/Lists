@@ -1,10 +1,8 @@
-package dataStructures;
+package lists;
 
 import java.awt.Graphics;
 import java.util.ArrayList;
 import javax.swing.Timer;
-import java.awt.*;
-import javax.swing.*;
 import java.awt.event.*;
 
 import javax.swing.JPanel;
